@@ -1,0 +1,24 @@
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\bin\Release\KP_DB.exe.config
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\bin\Release\KP_DB.exe
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\bin\Release\KP_DB.pdb
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\bin\Release\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\bin\Release\Microsoft.Data.ConnectionUI.dll
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\bin\Release\ru\Microsoft.Data.ConnectionUI.Dialog.resources.dll
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.UserForm.resources
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.Login.resources
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.Properties.Resources.resources
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.csproj.GenerateResource.Cache
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.exe
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.pdb
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.AdminForm.resources
+C:\Users\Эрик\Documents\Visual Studio 2013\Projects\KP_DB\KP_DB\obj\Release\KP_DB.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\bin\Release\KP_DB.exe.config
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\obj\Release\KP_DB.exe
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\obj\Release\KP_DB.pdb
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\bin\Release\KP_DB.exe
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\bin\Release\KP_DB.pdb
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\obj\Release\KP_DB.AdminForm.resources
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\obj\Release\KP_DB.UserForm.resources
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\obj\Release\KP_DB.Login.resources
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\obj\Release\KP_DB.Properties.Resources.resources
+C:\Users\Олег\Desktop\КП\KP_DB\KP_DB\obj\Release\KP_DB.csproj.GenerateResource.Cache
